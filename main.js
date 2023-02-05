@@ -27,29 +27,15 @@ let srt = '123'
 
 console.log(typeof srt)
 
-let tru = false
+let y =true
+let z = false
 
-if ( tru == false){
-    tru = 0
-}
+console.log(y*1)
+console.log(z*1)
 
-console.log(tru )
+let x = null
 
-let u = undefined
-
- if (u==undefined){
-        u=5
-}
-
-console.log (u)
+console.log(x*1)
 
 
-// let persone = {
-//     name: 'Sanjar',
-//     age: 18,
-//     car: {
-//         color: 'black'
-//
-//
-//     }
-// }
+console.log(Boolean(undefined+true)*1)
