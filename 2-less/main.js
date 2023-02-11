@@ -43,13 +43,11 @@ let u = undefined
 
 console.log (u)
 
+let x=true
+    y=false
 
-// let persone = {
-//     name: 'Sanjar',
-//     age: 18,
-//     car: {
-//         color: 'black'
-//
-//
-//     }
-// }
+console.log(Boolean(x ))
+
+
+
+

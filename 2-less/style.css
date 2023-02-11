@@ -1,0 +1,23 @@
+.col {
+  border: 1px solid;
+}
+
+.col:nth-child(1) {
+  background: gold;
+}
+
+.col:nth-child(2) {
+  background: silver;
+}
+
+.col:nth-child(3) {
+  background: red;
+}
+
+.col:nth-child(4) {
+  background: green;
+}
+
+.col:nth-child(5) {
+  background: blue;
+}
