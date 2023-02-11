@@ -27,21 +27,15 @@ let srt = '123'
 
 console.log(typeof srt)
 
-let tru = false
+let y =true
+let z = false
 
-if ( tru == false){
-    tru = 0
-}
+console.log(y*1)
+console.log(z*1)
 
-console.log(tru )
+let x = null
 
-let u = undefined
-
- if (u==undefined){
-        u=5
-}
-
-console.log (u)
+console.log(x*1)
 
 let x=true
     y=false
@@ -51,3 +45,7 @@ console.log(Boolean(x ))
 
 
 
+<<<<<<< HEAD:2-less/main.js
+=======
+console.log(Boolean(undefined+true)*1)
+>>>>>>> c6b1854462ecda5581baef9fa7f4ad0581b87ac8:main.js
